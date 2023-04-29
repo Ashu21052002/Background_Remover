@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@700&family=Poppins:wght@400;500&family=Ubuntu:ital,wght@1,300&display=swap');
+
+body{
+ background-color: #a59999;  
+}
+h1{
+    font-family: 'Dongle', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+/* padding-left: 13rem; */
+text-decoration: underline;
+text-align: center;
+margin-top: 4rem;
+font-weight: bolder;
+color:darkblue;
+}
+
+.container{
+    padding: 1.5rem;
+    border: 2px solid #7a6565;
+    border-radius: 1rem;
+    /* opacity: 0.8; */
+    position: relative;
+    top: 4rem;
+    /* background-color: rgb(116, 95, 172); */
+    background-color: #ffffff8e;
+    width: 55rem;
+    height: 15rem;
+}
+
+
+.container button {
+    align-content: center;
+    position: relative;
+    /* padding-left: 24.5rem; */
+    /* padding-right: 24rem; */
+    margin-bottom: 2rem;
+
+}
